@@ -13,15 +13,15 @@ import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  name: "Milano Moses",
+  initials: "MM",
+  url: "https://milanomoses.co.za",
+  location: "South Africa",
+  locationLink: "https://www.google.com/maps/place/southafrica",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "I design and build meaningful scalable websites and web applications — from pixel-perfect front ends to reliable back ends.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "I’m a goals-driven full-stack web developer with a strong focus on thoughtful UI, performance, and maintainability. Over the past few years, I’ve worked across the full software development lifecycle — translating UX designs into production-ready websites, building custom WordPress solutions, and improving SEO, speed, and conversion rates.",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
@@ -41,12 +41,12 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "milanom215@gmail.com",
+    tel: "+27 62 797 0495",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/MilanoM27",
         icon: Icons.github,
         navbar: true,
       },
